@@ -19,7 +19,7 @@ export default function Home() {
       <Navbar />
 
       {/* ═══════════ HERO ═══════════ */}
-      <section className="hero" id="hero">
+      <section className="hero" id="hero" style={{ paddingTop: "100px" }}>
         <div className="hero-bg">
           <Image
             src="/Images/hero-honda-darkened.png"

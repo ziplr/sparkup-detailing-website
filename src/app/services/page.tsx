@@ -7,7 +7,7 @@ export default function ServicesPage() {
   return (
     <>
       <Navbar />
-      <main className="hero" style={{ minHeight: "80vh" }}>
+      <main className="hero" style={{ minHeight: "80vh", paddingTop: "100px" }}>
         <div className="hero-orb hero-orb-1" />
         <div className="hero-orb hero-orb-2" />
 
