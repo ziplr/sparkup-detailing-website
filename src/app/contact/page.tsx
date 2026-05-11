@@ -43,7 +43,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h4 style={{ margin: 0 }}>Email Us</h4>
-                    <a href="mailto:info@sparkupdetailing.com.au" style={{ color: "var(--blue-primary)", fontWeight: 600 }}>Email is not currently available. We're working on it!!!</a>
+                    <a href="mailto:info@sparkupdetailing.com.au" style={{ color: "var(--blue-primary)", fontWeight: 600 }}>Email is not currently available. We're working on it!</a>
                   </div>
                 </div>
               </div>
