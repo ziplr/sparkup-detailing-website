@@ -33,7 +33,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h4 style={{ margin: 0 }}>Call or Text</h4>
-                    <a href="tel:0400672796" style={{ color: "var(--blue-primary)", fontWeight: 600 }}>0400 672 796</a>
+                    <a href="tel:0375031021" style={{ color: "var(--blue-primary)", fontWeight: 600 }}>0375031021</a>
                   </div>
                 </div>
 
